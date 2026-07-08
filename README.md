@@ -1,16 +1,7 @@
-## Hi, I'm Soheil Khalesi
+## Hi, I'm Soheil Khalesi 👋
 
-I'm an undergraduate student in Mechanical Engineering at Sharif University, Iran, interested in:
+Undergraduate Mechanical Engineering student at Sharif University, Iran, working toward research in **Embodied AI**, **robot learning**, **human-robot interaction**, and **sim-to-real transfer**.
 
-- Embodied AI
-- Human-Robot Interaction
-- Robot Learning
-- Sim-to-Real Transfer
-- Multimodal Learning
-- Reinforcement Learning
+Currently building small projects in speech and multimodal AI for social robots.
 
-### Contact
-
-- Email: contact.soheilkhalesi@gmail.com
-- LinkedIn: 
-- CV: 
+**Contact:** [Email](mailto:contact.soheilkhalesi@gmail.com) 📫
